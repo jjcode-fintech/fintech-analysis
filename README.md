@@ -40,12 +40,7 @@ Metrics of success for companies in this domain includes market revenue, active 
 
 ## Recommendations
 
-Based on my research on Rohinhood I would encourage Robinhood
+Based on my research on Robinhood I would encourage them to invest on making additional investments on creating more products around educating their users on investing in general. Also, creating additional friction to make users think twice about their investment choices. Currently, because Robinhood has made it so easy to buy and trade stocks that the choices maybe not be fully understood by the end users. Investing in better educational products for their users will help encourage user to make better choices and make them better investors in the long run. 
 
-* If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
 
-* Why do you think that offering this product or service would benefit the company?
 
-* What technologies would this additional product or service utilize?
-
-* Why are these technologies appropriate for your solution?
